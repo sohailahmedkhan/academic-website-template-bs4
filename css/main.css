@@ -431,3 +431,25 @@ input::placeholder {
     border: none !important;
   }
 }
+
+
+.journal-entry {
+    display: flex;
+    align-items: center;
+    /* justify-content: space-between; */
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    /* margin-bottom: 10px; */
+  }
+
+.journal-entry h4 {
+    padding-left: 20px;
+    color: rgb(0, 68, 255) !important;
+    /* margin-bottom: 10px; */
+  }
+
+.journal-entry p {
+    padding-left: 20px;
+    /* margin-bottom: 10px; */
+  }
