@@ -2,7 +2,7 @@
   /* root color variables */
   --bright-blue: #007bff;
   --nd-blue: #20364c;
-  --body-background: #f6f7fbd7;
+  --body-background: #f6f7fb;
   --ghost-white: ghostwhite;
   --alice-blue: aliceblue;
   --footer-slate: #e6e8f1;
@@ -445,7 +445,7 @@ input::placeholder {
 
 .journal-entry h4 {
     padding-left: 20px;
-    color: rgb(0, 68, 255) !important;
+    color: rgba(7, 2, 37, 0.644) !important;
     /* margin-bottom: 10px; */
   }
 
